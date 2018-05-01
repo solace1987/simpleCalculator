@@ -1,0 +1,82 @@
+
+body {
+    background: url("images/blackg.jpg") no-repeat;
+    font-family: 'Orbitron', sans-serif;
+}
+
+#container {
+  
+    margin:0 auto;
+    width:50%;
+    border-radius:10px;
+    
+
+}
+
+#container h1{
+    
+    color:white;
+    padding: 20px;
+    margin-left: 28%
+        
+}
+#display {
+    height: 50px;
+    width:80%;
+    margin: 0 auto ;
+    background-color: aliceblue;
+     border-radius:6px;
+}
+#ans{
+    
+    margin: 12px auto;
+    font-size: 30px;
+    float:right;
+    color: green
+}
+#keys {
+    width: 80%;
+    margin: 50px;
+    padding-left:75px;
+}
+
+button {
+     font-family: 'Orbitron', sans-serif !important;
+}
+
+#keys #line1 button{
+   padding:0 40px;
+    height: 40px;
+    margin-right: 20px;
+    margin-bottom:5px;
+width:26px;
+    text-decoration: none;
+
+}
+#keys #line2 button{
+   padding:0 40px;
+    height: 40px;
+    margin-right: 20px;
+    margin-bottom:5px;
+    width:26px;
+text-decoration: none;
+}
+
+#keys #line3 button{
+   padding:0 40px;
+    height: 40px;
+    margin-right: 20px;
+    margin-bottom:5px;
+    width:26px;
+    text-decoration: none;
+}
+#keys #line4 button{
+   padding:0 40px;
+    height: 40px;
+    margin-right: 20px;
+    margin-bottom:5px;
+    width:26px;
+    -moz-text-decoration: none;
+}
+
+

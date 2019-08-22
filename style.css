@@ -32,7 +32,8 @@ body {
     margin: 12px auto;
     font-size: 30px;
     float:right;
-    color: green
+    color: green;
+    padding-right:15px;
 }
 #keys {
     width: 80%;
@@ -76,6 +77,7 @@ text-decoration: none;
     margin-right: 20px;
     margin-bottom:5px;
     width:26px;
+    text-decoration: none;
     -moz-text-decoration: none;
 }
 
